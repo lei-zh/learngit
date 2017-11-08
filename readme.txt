@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick AND simple.
 Merge with no Fast forward test!!
 Git stash test1.
+Git stash my changes.
